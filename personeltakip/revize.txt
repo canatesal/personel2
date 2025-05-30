@@ -1,0 +1,1 @@
+maaslar departmana gore hesaplanacak. 30 dk tolerans. tarihe gore personelin mesai durumunu gor. proje bitince setup olarak github'a yukle. 

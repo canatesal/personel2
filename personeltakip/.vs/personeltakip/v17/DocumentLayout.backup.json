@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|solutionrelative:personeltakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|c:\\users\\canat\\onedrive\\masa\u00FCst\u00FC\\c#projee\\personeltakip\\personeltakip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|solutionrelative:personeltakip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|c:\\users\\canat\\onedrive\\masa\u00FCst\u00FC\\c#projee\\personeltakip\\personeltakip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|solutionrelative:personeltakip\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|c:\\users\\canat\\onedrive\\masa\u00FCst\u00FC\\c#projee\\personeltakip\\personeltakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76D3683-4DA5-452B-80D8-1840549F343B}|personeltakip\\personeltakip.csproj|solutionrelative:personeltakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form1.cs",
+              "RelativeDocumentMoniker": "personeltakip\\Form1.cs",
+              "ToolTip": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeltakip\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:53:15.5Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form2.cs",
+              "RelativeDocumentMoniker": "personeltakip\\Form2.cs",
+              "ToolTip": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeltakip\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:03:48.106Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form2.cs",
+              "RelativeDocumentMoniker": "personeltakip\\Form2.cs",
+              "ToolTip": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form2.cs",
+              "RelativeToolTip": "personeltakip\\Form2.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:10:22.466Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form1.cs",
+              "RelativeDocumentMoniker": "personeltakip\\Form1.cs",
+              "ToolTip": "C:\\Users\\canat\\OneDrive\\Masa\u00FCst\u00FC\\C#PROJEE\\personeltakip\\personeltakip\\Form1.cs",
+              "RelativeToolTip": "personeltakip\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:54:12.688Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

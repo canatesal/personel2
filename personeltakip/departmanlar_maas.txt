@@ -1,0 +1,10 @@
+Bilişim,10000
+İnsan Kaynakları,8500
+Muhasebe,9500
+Satış,9000backend,45000
+backend,45000
+frontend,35000
+full-stack,75000
+satis,30000
+insan kaynaklari,30000
+seks,1
